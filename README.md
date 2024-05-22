@@ -12,28 +12,28 @@
 </div>
 <div align="center">
     <!-- Replace with your skills -->
-    <img src="https://img.shields.io/badge/NodeJs-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/NodeJs-007396?style=for-the-badge&logo=nodejs&logoColor=white" alt="Java" />
     <!-- Add more badges similarly -->
 </div>
 <div align="center">
     <!-- Replace with your skills -->
-    <img src="https://img.shields.io/badge/Php-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Php-007396?style=for-the-badge&logo=php&logoColor=white" alt="Java" />
     <!-- Add more badges similarly -->
 </div>
 
 <div align="center">
     <!-- Replace with your skills -->
-    <img src="https://img.shields.io/badge/Javascript-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Javascript-007396?style=for-the-badge&logo=javascript&logoColor=white" alt="Java" />
     <!-- Add more badges similarly -->
 </div>
 <div align="center">
     <!-- Replace with your skills -->
-    <img src="https://img.shields.io/badge/MongoDB-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/MongoDB-007396?style=for-the-badge&logo=mongodb&logoColor=white" alt="Java" />
     <!-- Add more badges similarly -->
 </div>
 <div align="center">
     <!-- Replace with your skills -->
-    <img src="https://img.shields.io/badge/MYsql-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/MYsql-007396?style=for-the-badge&logo=sql&logoColor=white" alt="Java" />
     <!-- Add more badges similarly -->
 </div>
 <h1>Front end frameworks</h1>
@@ -47,17 +47,17 @@
 
 <div align="center">
     <!-- Replace with your framework skills -->
-    <img src="https://img.shields.io/badge/Npm-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Npm-20232A?style=for-the-badge&logo=npm&logoColor=61DAFB" alt="React"/>
     <!-- Add more badges similarly -->
 </div>
 <div align="center">
     <!-- Replace with your framework skills -->
-    <img src="https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html&logoColor=61DAFB" alt="React"/>
     <!-- Add more badges similarly -->
 </div>
 <div align="center">
     <!-- Replace with your framework skills -->
-    <img src="https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css&logoColor=61DAFB" alt="React"/>
     <!-- Add more badges similarly -->
 </div>
  more badges similarly -->
