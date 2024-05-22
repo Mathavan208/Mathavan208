@@ -4,9 +4,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Mathavan;This+is..;..my+Github..;" alt="Typing SVG"/>
     </h1>
 </div>
-<div align="center">
-    <img src="https://raw.githubusercontent.com/[YourGitHub]/[YourGitHub]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
+
 <h1>Backend frameworks</h1>
 <div align="center">
     <!-- Replace with your skills -->
@@ -72,6 +70,10 @@
 <div>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mathavan208&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
 </div>
+<div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mathavan208&theme=vue-dark&hide_border=true"/>
+</div>
+
 <!--
 **Mathavan208/Mathavan208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
