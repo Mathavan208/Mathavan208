@@ -63,12 +63,13 @@
     <img src="https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css&logoColor=61DAFB" alt="React"/>
     <!-- Add more badges similarly -->
 </div>
-<div align="center">
+<h1>Stats</h1>
+<div>
     <img src="https://github-readme-stats.vercel.app/api?username=Mathavan208&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
 </div>
 
 
-<div align="center">
+<div>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mathavan208&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
 </div>
 <!--
