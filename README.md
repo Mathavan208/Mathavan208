@@ -4,9 +4,39 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Mathavan;This+is..;..my+Github..;" alt="Typing SVG"/>
     </h1>
 </div>
+<h1>Backend frameworks</h1>
+<div align="center">
+    <!-- Replace with your skills -->
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <!-- Add more badges similarly -->
+</div>
+<div align="center">
+    <!-- Replace with your skills -->
+    <img src="https://img.shields.io/badge/NodeJs-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <!-- Add more badges similarly -->
+</div>
+<div align="center">
+    <!-- Replace with your skills -->
+    <img src="https://img.shields.io/badge/Php-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <!-- Add more badges similarly -->
+</div>
 
-
-
+<div align="center">
+    <!-- Replace with your skills -->
+    <img src="https://img.shields.io/badge/Javascript-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <!-- Add more badges similarly -->
+</div>
+<div align="center">
+    <!-- Replace with your skills -->
+    <img src="https://img.shields.io/badge/MongoDB-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <!-- Add more badges similarly -->
+</div>
+<div align="center">
+    <!-- Replace with your skills -->
+    <img src="https://img.shields.io/badge/MYsql-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <!-- Add more badges similarly -->
+</div>
+<h1>Front end frameworks</h1>
 
 
 <div align="center">
