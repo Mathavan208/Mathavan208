@@ -64,7 +64,12 @@
     <!-- Add more badges similarly -->
 </div>
  more badges similarly -->
-![Mathavan208's Stats](https://github-readme-stats.vercel.app/api?username=Mathavan208&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+https://github-readme-stats.vercel.app/api?username=Mathavan208&theme=vue-dark&show_icons=true&hide_border=true&count_private=true
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mathavan208&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
+</div>
+
+
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mathavan208&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
 </div>
