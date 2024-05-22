@@ -71,6 +71,11 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mathavan208&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
 </div>
 <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathavan208&theme=vue-dark&show_icons=true&hide_border=true&layout=compact
+"/>
+</div>
+
+<div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mathavan208&theme=vue-dark&hide_border=true"/>
 </div>
 
