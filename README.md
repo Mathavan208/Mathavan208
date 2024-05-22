@@ -30,11 +30,8 @@
     <img src="https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
     <!-- Add more badges similarly -->
 </div>
-<div align="center">
-    <!-- Replace with your framework skills -->
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-    <!-- Add more badges similarly -->
-</div>
+ more badges similarly -->
+
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mathavan208&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
 </div>
