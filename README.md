@@ -63,8 +63,6 @@
     <img src="https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css&logoColor=61DAFB" alt="React"/>
     <!-- Add more badges similarly -->
 </div>
- more badges similarly -->
-https://github-readme-stats.vercel.app/api?username=Mathavan208&theme=vue-dark&show_icons=true&hide_border=true&count_private=true
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Mathavan208&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
 </div>
